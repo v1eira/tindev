@@ -18,6 +18,7 @@ A Tinder-like app for developers who want to get in touch with other developers 
 - ReactJS
 - React Native
 - Yarn
+- Socket.IO
 
 ## Running the app:
 Start the server inside the ```backend``` folder:
