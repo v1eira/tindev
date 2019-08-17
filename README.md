@@ -1,4 +1,4 @@
-# Tindev
+# Tindev <img src="mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" height="30px"/>
 
 A Tinder-like app for developers who want to get in touch with other developers working with the same stack.
 
